@@ -1,0 +1,40 @@
+Base de Conhecimento - Locação de Veículos e Gastos no Cartão Corporativo
+
+Políticas gerais:
+
+Diária padrão: R$ 120,00 para carros compactos e sedãs; R$ 180,00 para minivans.
+Limite do cartão corporativo por colaborador: R$ 1.000,00 por locação.
+Gastos permitidos no cartão corporativo: combustível, pedágio e estacionamento.
+Multas de trânsito são de responsabilidade do condutor e não podem ser pagas com o cartão corporativo.
+Devolução com tanque abaixo do nível combinado gera taxa de reabastecimento de R$ 50,00.
+Suporte da locadora: 0800 555 1234.
+
+Locações em andamento:
+
+Mateus:
+Veículo: Chevrolet Prisma (sedã), placa ABC-1D23.
+Retirada: 14/10/2026. Devolução prevista: 18/10/2026 (4 diárias).
+Gastos no cartão corporativo: R$ 100,00 (abastecimento).
+Saldo disponível no cartão: R$ 900,00.
+Situação: locação ativa, sem multas registradas.
+
+Ana:
+Veículo: Chevrolet Onix (compacto), placa DEF-4G56.
+Retirada: 12/10/2026. Devolução prevista: 15/10/2026 (3 diárias).
+Gastos no cartão corporativo: R$ 260,00 (R$ 180,00 de combustível e R$ 80,00 de pedágios).
+Saldo disponível no cartão: R$ 740,00.
+Situação: locação ativa, sem multas registradas.
+
+Carlos:
+Veículo: Hyundai HB20 (compacto), placa GHI-7J89.
+Retirada: 10/10/2026. Devolução prevista: 13/10/2026 (3 diárias).
+Gastos no cartão corporativo: R$ 430,00 (R$ 350,00 de combustível e R$ 80,00 de estacionamento).
+Saldo disponível no cartão: R$ 570,00.
+Situação: locação encerrada. Multa de R$ 130,00 por excesso de velocidade, paga pelo próprio Carlos.
+
+Juliana:
+Veículo: Chevrolet Spin (minivan), placa JKL-0M12.
+Retirada: 15/10/2026. Devolução prevista: 20/10/2026 (5 diárias).
+Gastos no cartão corporativo: R$ 615,00 (R$ 500,00 de combustível e R$ 115,00 de pedágios).
+Saldo disponível no cartão: R$ 385,00.
+Situação: locação ativa, sem multas registradas.
